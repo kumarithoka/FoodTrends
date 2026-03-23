@@ -16,7 +16,7 @@ By leveraging data analysis techniques, this project provides meaningful insight
 
 ## Project Milestones & Detailed Analysis
 ## 1. Dietary Preferences and Averages
-
+![image alt](https://github.com/kumarithoka/FoodTrends/blob/de7990250688e35c1a2b38527165a891a9a32cc0/IMG_20260323_221359.png)
 ### Focus:
 This phase focuses on understanding customer dietary patterns by analyzing ingredient-level nutrition, different types of diets such as vegetarian, non-vegetarian, and vegan, along with cooking behavior and frequency of food consumption, in order to evaluate how these factors influence overall calorie and nutrient intake.
 
