@@ -52,6 +52,7 @@ The findings indicate that excessive intake of sugar and fats is strongly associ
 This phase provides valuable insights for preventive healthcare strategies and supports the development of nutrition-based recommendations aimed at improving overall public health.
 
  ## 3. Averages by Breakfast Suggestions
+ ![image alt](https://github.com/kumarithoka/FoodTrends/blob/b799c01022c8425f2c39129668bc6f37570fb1b3/IMG_20260323_221657.png)
 
 ### Focus:
 This stage focuses on analyzing breakfast consumption habits by evaluating the nutritional distribution of morning meals, identifying gaps in commonly consumed foods, and generating balanced breakfast suggestions based on average intake values.
