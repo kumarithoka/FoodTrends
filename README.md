@@ -16,7 +16,8 @@ By leveraging data analysis techniques, this project provides meaningful insight
 
 ## Project Milestones & Detailed Analysis
 ## 1. Dietary Preferences and Averages
-![image alt](https://github.com/kumarithoka/FoodTrends/blob/de7990250688e35c1a2b38527165a891a9a32cc0/IMG_20260323_221359.png)
+![image alt]
+(https://github.com/kumarithoka/FoodTrends/blob/de7990250688e35c1a2b38527165a891a9a32cc0/IMG_20260323_221359.png)
 ### Focus:
 This phase focuses on understanding customer dietary patterns by analyzing ingredient-level nutrition, different types of diets such as vegetarian, non-vegetarian, and vegan, along with cooking behavior and frequency of food consumption, in order to evaluate how these factors influence overall calorie and nutrient intake.
 
@@ -33,6 +34,7 @@ The analysis reveals that a majority of users follow specific dominant dietary p
 These insights help in designing targeted food recommendations and improving awareness about maintaining a balanced diet, which can support both individual health goals and food industry decision-making.
 
 ## 2. Nutrients and Diseases
+![image alt](https://github.com/kumarithoka/FoodTrends/blob/06dd23346181cd90214dbc1a27419dd66a6c930d/IMG_20260323_221433.png)
 
 ### Focus:
 This milestone concentrates on examining the relationship between nutrient intake and health conditions by analyzing macronutrients such as proteins, carbohydrates, and fats, as well as micronutrients like vitamins and minerals, to understand how imbalances contribute to disease development.
