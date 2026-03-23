@@ -70,6 +70,7 @@ The results show that many users either skip breakfast or consume meals with low
 These insights enable the creation of personalized meal planning strategies and promote healthier daily routines, especially by emphasizing the importance of a nutritious breakfast.
 
 ## 4. Life & Nutrition Impact
+![image alt](https://github.com/kumarithoka/FoodTrends/blob/6e5755dfec1439af0bbdf7ee926d79c355d0df9b/IMG_20260323_221745.png)
 
 ### Focus:
 This phase explores the combined impact of lifestyle habits and nutrition on overall health by analyzing factors such as physical activity levels, daily routines, and long-term behavioral patterns to understand their influence on energy and well-being.
