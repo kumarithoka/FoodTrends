@@ -8,11 +8,22 @@ By leveraging data analysis techniques, this project provides meaningful insight
 
 ## Objectives
 
-* To analyze customer dietary preferences and consumption patterns
-* To study the relationship between nutrients and common diseases
-* To provide personalized and data-driven breakfast suggestions
-* To evaluate the impact of lifestyle and nutrition on health
-* To generate actionable insights for better food and health decisions
+* To analyze customer dietary preferences and consumption patterns.
+* To study the relationship between nutrients and common diseases.
+* To provide personalized and data-driven breakfast suggestions.
+* To evaluate the impact of lifestyle and nutrition on health.
+* To generate actionable insights for better food and health decisions.
+
+## Dataset Information
+
+The dataset used in this project is sourced from:  
+(https://www.kaggle.com/datasets/rabhar/zomato-restaurants-in-india)
+
+This dataset includes information related to:
+- Customer preferences.
+- Ingredients.
+- Nutrition values.
+- Cooking behavior.
 
 ## Project Milestones & Detailed Analysis
 ## 1. Dietary Preferences and Averages
