@@ -62,7 +62,8 @@ The findings indicate that excessive intake of sugar and fats is strongly associ
 This phase provides valuable insights for preventive healthcare strategies and supports the development of nutrition-based recommendations aimed at improving overall public health.
 
  ## 3. Averages by Breakfast Suggestions
- ![image alt](https://github.com/kumarithoka/FoodTrends/blob/b799c01022c8425f2c39129668bc6f37570fb1b3/IMG_20260323_221657.png)
+ ![image alt](https://github.com/kumarithoka/FoodTrends/blob/6e5755dfec1439af0bbdf7ee926d79c355d0df9b/IMG_20260323_221745.png)
+ 
 
 ### Focus:
 This stage focuses on analyzing breakfast consumption habits by evaluating the nutritional distribution of morning meals, identifying gaps in commonly consumed foods, and generating balanced breakfast suggestions based on average intake values.
@@ -80,8 +81,7 @@ The results show that many users either skip breakfast or consume meals with low
 These insights enable the creation of personalized meal planning strategies and promote healthier daily routines, especially by emphasizing the importance of a nutritious breakfast.
 
 ## 4. Life & Nutrition Impact
-![image alt](https://github.com/kumarithoka/FoodTrends/blob/6e5755dfec1439af0bbdf7ee926d79c355d0df9b/IMG_20260323_221745.png)
-
+![image alt](https://github.com/kumarithoka/FoodTrends/blob/b799c01022c8425f2c39129668bc6f37570fb1b3/IMG_20260323_221657.png)
 ### Focus:
 This phase explores the combined impact of lifestyle habits and nutrition on overall health by analyzing factors such as physical activity levels, daily routines, and long-term behavioral patterns to understand their influence on energy and well-being.
 
